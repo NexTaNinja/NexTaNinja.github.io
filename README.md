@@ -16,9 +16,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Charles Tan </h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 <p align="center">
-
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/charlestan2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn" height="30" width="40" /></a>  
 <a href = "mailto: ctan9@gmu.edu"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
 </p>
 </p>
 
