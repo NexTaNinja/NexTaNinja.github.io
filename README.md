@@ -43,7 +43,7 @@
 
 ✔ Callme: ***He/Him/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently writing Python code on how to predict COVID19 deaths. <br>
-✔ I’m currently learning about **deep learning**🥰<br>
+✔ I’m currently learning about **deep learning** and **big data**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
