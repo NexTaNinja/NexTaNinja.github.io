@@ -17,7 +17,7 @@
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/charlestan2022/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/charlestan2022/" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href = "mailto: ctan9@gmu.edu"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
